@@ -1,2 +1,2 @@
 # Computer-Vision
-Classical Computer Vision
+Classical Computer Vision Projects
